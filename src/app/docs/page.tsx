@@ -385,7 +385,7 @@ const DocContent = () => {
                           <div className="bg-white rounded-lg shadow-sm p-6">
                             <h3 className="text-xl font-semibold text-[#1a3a1a] mb-4">2. Import Example Stack (Optional)</h3>
                             <div className="bg-gray-800 rounded-lg p-4">
-                              <code className="text-green-400 font-mono">gorunn init --parse --import https://github.com/parapidcom/gorunn-project-manifests.git</code>
+                              <code className="text-green-400 font-mono">gorunn init --parse --import https://github.com/magip-tech/gorunn-project-manifests.git</code>
                             </div>
                             <p className="text-gray-600 mt-2">Example stack includes React, Laravel, and Django projects</p>
                           </div>
@@ -485,7 +485,7 @@ workspace_path: /path/to/workspace`}
                           or shared via a Git repository for team collaboration.
                         </p>
                         <p className="text-gray-600 mb-6">
-                          Check out the <Link href="https://github.com/parapidcom/gorunn-project-manifests" className="text-gray-900 hover:text-gray-600">gorunn-project-manifests</Link> repository for examples.
+                          Check out the <Link href="https://github.com/magip-tech/gorunn-project-manifests" className="text-gray-900 hover:text-gray-600">gorunn-project-manifests</Link> repository for examples.
                         </p>
 
                         <div className="space-y-6">
